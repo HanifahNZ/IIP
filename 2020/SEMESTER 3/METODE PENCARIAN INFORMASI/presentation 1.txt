@@ -1,0 +1,49 @@
+
+information seeking 
+sebuah proses/aktivitas yg mencoba untuk mendapatkan informasi yg melibatkan 2 hal yaitu human dan teknologi
+information seeking lembih mengarah ke sistemnya, berhubungan oleh user yg mencari informasi menggunakan teknologi
+
+information searching
+sebuah orang ingin mencari informasi yang lebih spesifik
+
+retrival 
+sistem temu kembali .aktifitas yg melibatkan sistem resourceny. lebih mengarah penggunaan satu sistem.
+
+information behaviour
+ketika orang searching/seeking informasi yang dipelajari adalah behaviournya. mengarah ke objek sebuah investigasi.
+
+informasi behavior mencakup information seeking dan searching
+
+information searching setiap orang berbeda - beda
+
+unstructed biasanya dalam bentuk teks tapi tidak semuanya
+structured dalam bentuk database
+terstruktur itu artinya sudah dikelompokkan.
+
+impresum = keterangan dalam buku mengenai penerbitan / pencetakkannya , disebut juga biblio.
+
+yg perlu dimasukkan dalam databae / informasi yg perlu di retriv: impresum, kolasi, 
+
+
+data struktur lebih sedikit dari data tidak terstruktur.
+
+struktur data lebih mengarah pada data data yg masuk ke dalam database.
+
+database biasanya berisi : judul, pengarang, abstrak
+
+data tidak terstuktur bisa dalam bentuk sms, blog, web, sosial media, email, dll.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

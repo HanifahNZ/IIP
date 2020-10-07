@@ -1,0 +1,14 @@
+
+
+
+perpustakaan  dengan perpustakaan digital acuannya sama
+
+yg beda adalah konten, yg satu bentuk fisik yang satu bentuk digital
+
+koleksi multimedia = youtube
+
+singel entity = repository
+singel media yaitu apabila menyimpan jurnal jurnal saja, buku buku saja.
+
+
+digital library = koleksi multimedia

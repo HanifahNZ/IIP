@@ -1,0 +1,38 @@
+
+Klasifikasi 
+
+peminjaman hanya 1 jam, tapi bisa dibuka berkali - kali
+
+https://archive.org/details/deweydecimalclas03dewe_0
+
+realia = patung
+
+call number : kertas nomor punggung buku
+
+contoh grouping :
+- mall, lantai 1 khusus makanan ringan, lantai 2 fashion , laitai 3 permainan, laintai 4 makanan yg berat karena paling atas ada cerobong asapnya.
+
+ordering
+contoh di mall ada alat alat mandi,shampo sabun,dll. diurutkan diatur sedimikian rupa. ada sampo ada conditioner,
+
+open system : pengguna secara mandiri mengambil buku yang dicari
+close system : petugas mengambil buku yg kita cari
+
+X:C:19
+
+pure notaion = murni notasi, kalo angka angka semua, kalo huruf hurup semua
+mix notation = notasi campuran
+
+ddc merupaka pure notaion yaitu semua menggunakan angka
+
+
+nmemonic dibaca nemonic
+nmenotic mudah diingat karena ada pengulangan pengulangan
+
+biasakan membuka link dari bu endangg ddc online supaya terbiasa, 
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+ entity : sebuah obyek yang memiliki atribut
+
+atribut : sesuatu yg menempel pada entity
+
+Contoh :
+mahasiswa : alamat, jurusan, nama, nim
+mahasiswa disebut entity
+alamat,jurusan, nama,nim disebut atribut

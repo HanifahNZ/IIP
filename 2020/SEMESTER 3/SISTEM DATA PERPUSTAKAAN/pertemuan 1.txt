@@ -1,0 +1,37 @@
+Sistem Data Perpustakaan (SDP)
+
+mempelajari data data tapi bukan datanya
+
+membuat sistem data perpustakaan -- difokuskan pada membangun database di perpustakaan.
+
+database mulai dari yang sederhana sampai rumit
+
+setelah itu membuat kontruksi portal (website) 
+
+dimana website tadi berhubungan dengan database
+
+- entity relationship
+- 
+
+atribut : 
+
+
+ada UTS/tidak masih didiskusikan.
+kemungkinan besar UTS diambil dari tugas tugas yang telah diberikan.
+
+kelompok 5 orang, setiap kelompok presentasi. 
+
+setiap kelompok berbeda beda : database perpustakaan tinggi, database perpustakaan sekolah, database perpustakaan khusus, database perpustakaan nasional, dll
+
+membuat konten video tutorial tentang pembuatan database lalu di upload di yt IIP. kalo hasilnya memuaskan maka UTS ditiadakan, dan sebaliknya jika hasilnya kurang maka UTS diadakan
+
+aplikasi free : MySQL dan php
+
+PUSAT DATA BISNIS INDONESIA, SISTEM DATABASE PENJUALAN : masih berkaitan dengan IIP
+
+
+
+
+
+
+setelah uts bikin prototype
